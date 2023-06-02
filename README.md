@@ -7,6 +7,8 @@ For more information, you can use these links:
 - [Detectron2 document](https://detectron2.readthedocs.io/en/latest/)
 - [Use Castum dataset in Detectron2](https://detectron2.readthedocs.io/en/latest/tutorials/datasets.html)
 
+For Downloading the dataset use this [LINK](https://drive.google.com/drive/folders/1def3oiyq5FbEXtCps-QiR3FXhJMCenQf?usp=sharing).
+
 Here you can see the PointRend output:
 
 ![PointRend_output](https://github.com/Barghgir/Instance_segmentation_with_PointRend_and_TensorMask/assets/61283972/cb0a62d4-9ac6-4983-96e5-af3ccf0e5b0e)
